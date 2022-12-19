@@ -31,6 +31,6 @@ Contribuições:
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
-### Support Me
+### Me pague um cafêzinho!!
 
 <a href="https://www.buymeacoffee.com/hugorafael"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
