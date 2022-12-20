@@ -11,6 +11,7 @@ Redes Sociais:
 <a href ="https://www.linkedin.com/in/satochy-tanabe-6b7275220/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href = "mailto:ssatochytanabe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href ="https://stackoverflow.com/users/20823429/satochy"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+<a href ="https://br.pinterest.com/Satochy_T/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
   </div>
   
 <div align="center">
