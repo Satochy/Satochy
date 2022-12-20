@@ -5,12 +5,12 @@
 Redes Sociais:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center"><br>
-<a href ="https://www.facebook.com/satochy.tanabe/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-<a href ="https://www.instagram.com/satochy_t/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<a href ="https://twitter.com/SatochyT)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-<a href ="https://www.linkedin.com/in/satochy-tanabe-6b7275220/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href = "mailto:ssatochytanabe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href ="https://stackoverflow.com/users/20823429/satochy"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  <a href ="https://www.facebook.com/satochy.tanabe/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  <a href ="https://www.instagram.com/satochy_t/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href ="https://twitter.com/SatochyT)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href ="https://www.linkedin.com/in/satochy-tanabe-6b7275220/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href = "mailto:ssatochytanabe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="https://stackoverflow.com/users/20823429/satochy?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 <a href ="https://br.pinterest.com/Satochy_T/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
   </div>
   
