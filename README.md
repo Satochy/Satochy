@@ -19,7 +19,7 @@ Redes Sociais:
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satochy&layout=compact&langs_count=7&theme=dracula"/>
   </div>
  
-<div align="center">
+<div align="side">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <a href="https://www.typescriptlang.org/"><img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
