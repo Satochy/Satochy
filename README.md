@@ -1,6 +1,4 @@
 # Olá! Eu sou o Satochy👋
-* 19y | itapetininga-SP | 浪人
-* Designer gráfico | Desenvolvedor Web
 
 Redes Sociais:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,7 +30,3 @@ Contribuições:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ![Snake animation](https://github.com/Satochy/Satochy/blob/output/github-contribution-grid-snake.svg) 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-   ### Me pague um cafêzinho!!
-
-<a href="https://www.buymeacoffee.com/satochyt"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
