@@ -1,5 +1,5 @@
 # Olá! Eu sou o Satochy👋
-* 18y | itapetininga-SP | 浪人
+* 19y | itapetininga-SP | 浪人
 * Designer gráfico
 * Desenvoldor Web
 
