@@ -1,4 +1,6 @@
-# Olá! Eu sou o Satochy👋
+# Olá! Eu sou o Satochy!👋
+* Seja bem vindo(a) ao meu perfil GitHub!👩🏻‍💻
+* Busco aprimorar cada vez mais meus conhecimentos em tecnologia e programação.💻
 
 Redes Sociais:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
