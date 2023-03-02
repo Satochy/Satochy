@@ -1,7 +1,6 @@
 # Olá! Eu sou o Satochy👋
 * 19y | itapetininga-SP | 浪人
-* Designer gráfico
-* Desenvolvedor Web
+* Designer gráfico | Desenvolvedor Web
 
 Redes Sociais:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
