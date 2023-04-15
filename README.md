@@ -20,12 +20,16 @@ Redes Sociais:
   </div>
  
 <div align="side">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://www.typescriptlang.org/"><img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://www.python.org/"><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <a href="https://reactjs.org/"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <a href="https://www.typescriptlang.org/"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://www.python.org/"><img align="center" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://reactjs.org/"><img align="center" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30" width="40"
+src="https://nodejs.org/en"
 </div>
 
 Contribuições:
