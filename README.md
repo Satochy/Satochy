@@ -28,7 +28,7 @@ Redes Sociais:
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://reactjs.org/"><img align="center" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30" width="40"
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><img align="center" height="30" width="40"
 src="https://nodejs.org/en"
 </div>
 
