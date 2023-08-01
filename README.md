@@ -31,8 +31,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
   <a href="https://www.python.org/"><img align="center" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-Contribuições:
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ![Snake animation](https://github.com/Satochy/Satochy/blob/output/github-contribution-grid-snake.svg) 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
