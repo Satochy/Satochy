@@ -22,6 +22,7 @@
 
 ## Sobre mim:
 <div>
+  <img src="https://github.com/Satochy/Satochy/blob/main/Noteboo_coding.png"  width="300" height="300" align="right"/>
   <text align="left"><i>👩🏻‍💻Seja bem vindo(a) ao meu perfil GitHub!</i><br>
     <i>📈Objetivos: </i><br>
     <i>💻Aprimorar cada vez mais meus conhecimentos em tecnologia e programação. </i><br>
