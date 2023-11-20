@@ -30,26 +30,38 @@
     <i>🎓Superior em Análise e Desenvolvimento de Sistemas pela Fatec.</i><br>
     <i>📚CC50 Introdução à Ciência da Computação por Harvard.</i>
   </text><br>
-</div>  
+</div>
+
+#### Main Stack:
+<div align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></a>   
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></a>
+  <a href="https://getbootstrap.com/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></a>   
+  <a href="https://reactjs.org/">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img align="center" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></a>   
+  <a href="https://www.typescriptlang.org/">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/></a> 
+  <a href="https://nodejs.org/en">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>   
+  <a href="https://www.python.org/">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a> 
+  <a href="https://blog.betrybe.com/linguagem-de-programacao/linguagem-c/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a> 
+  <a href="https://www.infoescola.com/informatica/cpp/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></a>
+    <a href="https://www.mysql.com/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a> 
+</div>
 
 ## Github status:
 <div align="center">
-    <a href="https://stackoverflow.com/users/20823429/satochy?tab=profile">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Satochy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
-      <a href="https://stackoverflow.com/users/20823429/satochy?tab=profile">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satochy&layout=compact&langs_count=7&theme=dracula"/></a> 
-</div>
-
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img align="center" height="30"                                                      width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></a>   
-  <a href="https://www.typescriptlang.org/"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/></a>   
-   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></a>   
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></a>   
-  <a href="https://reactjs.org/"><img align="center" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/></a>   
-  <a href="https://nodejs.org/en"><img align="center" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>   
-  <a href="https://www.python.org/"><img align="center" height="30" width="40"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></a> 
+  <a href="https://stackoverflow.com/users/20823429/satochy?tab=profile">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Satochy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+  <a href="https://stackoverflow.com/users/20823429/satochy?tab=profile">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satochy&layout=compact&langs_count=7&theme=dracula"/></a> 
 </div>
