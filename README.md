@@ -5,19 +5,19 @@
 
 <div align="center">
   <a href="https://www.facebook.com/satochy.tanabe">
-    <img heigth="45px" width="45px" hspace="3" src="https://github.com/Satochy/Satochy/blob/main/facebook.png"/></a>
+    <img heigth="45px" width="45px" src="https://github.com/Satochy/Satochy/blob/main/facebook.png"/></a>
   <a href="https://www.instagram.com/satochy_t/">
-    <img heigth="45px" width="45px" hspace="3" src="https://github.com/Satochy/Satochy/blob/main/instagram.png"/></a> 
+    <img heigth="45px" width="45px" src="https://github.com/Satochy/Satochy/blob/main/instagram.png"/></a> 
   <a href="https://www.linkedin.com/in/satochy-tanabe-6b7275220/">
-    <img heigth="45px" width="45px" hspace="3" src="https://github.com/Satochy/Satochy/blob/main/linkedin.png"/></a>
+    <img heigth="45px" width="45px" src="https://github.com/Satochy/Satochy/blob/main/linkedin.png"/></a>
   <a href="https://twitter.com/SatochyT"> 
-    <img heigth="45px" width="45px" hspace="3" src="https://github.com/Satochy/Satochy/blob/main/twitter.png"/></a>
+    <img heigth="45px" width="45px" src="https://github.com/Satochy/Satochy/blob/main/twitter.png"/></a>
   <a href="mailto:ssatochytanabe@gmail.com">  
-    <img heigth="45px" width="45px" hspace="3" src="https://github.com/Satochy/Satochy/blob/main/gmail.png"/></a> 
+    <img heigth="45px" width="45px" src="https://github.com/Satochy/Satochy/blob/main/gmail.png"/></a> 
   <a href="https://www.behance.net/matheussatochytanabe">  
-    <img heigth="45px" width="45px" hspace="3" src="https://github.com/Satochy/Satochy/blob/main/behance.png"/></a>  
+    <img heigth="45px" width="45px" src="https://github.com/Satochy/Satochy/blob/main/behance.png"/></a>  
   <a href="https://stackoverflow.com/users/20823429/satochy?tab=profile">  
-    <img heigth="45px" width="45px" hspace="3" src="https://github.com/Satochy/Satochy/blob/main/stack_overflow.png"/></a> 
+    <img heigth="45px" width="45px" src="https://github.com/Satochy/Satochy/blob/main/stack_overflow.png"/></a> 
 </div> 
 
 ## Sobre mim:
