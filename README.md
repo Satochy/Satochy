@@ -66,6 +66,3 @@
   <a href="https://github.com/Satochy">
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satochy&layout=compact&langs_count=7&theme=dracula"/></a> 
 </div>
-
-## GitHub actions:
-![Snake animation](https://github.com/Satochy/Satochy/blob/output/github-contribution-grid-snake.svg)
