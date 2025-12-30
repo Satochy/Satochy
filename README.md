@@ -24,7 +24,7 @@
 
 <img src="https://github.com/Satochy/Satochy/blob/main/Notebook_coding.png?raw=true" width="300" align="right"/>
 
-<i>Vindo do Design Gráfico, estou em transição para ser um Dev, busco unir o olhar analítico com a <br>lógica para criar interfaces que vão além do visual, sendo tecnicamente eficientes e intuitivas.</i><br>
+<i>Vindo do Design Gráfico, estou em transição para ser um Dev, busco unir o olhar analítico com a lógica para criar interfaces que vão além do visual, sendo tecnicamente eficientes e intuitivas.</i><br>
 
 <i>🖥 **Foco:** Desenvolvimento web Full Stack e UI/UX. </i><br>
 <i>📈 **Objetivo:** oportunidade na área de desenvolvimento. </i><br>
