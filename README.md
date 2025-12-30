@@ -43,16 +43,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="40" />
 </p>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Status:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Satochy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&text_color=ff0000&icon_color=ff0000&title_color=ff0000" alt="Satochy's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Satochy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satochy&layout=compact&langs_count=7&theme=transparent&text_color=ff0000&icon_color=ff0000&title_color=ff0000" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Satochy&theme=dracula&no-frame=true&column=7&margin-w=15&text=ff0000" alt="trophy" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Satochy&layout=compact&theme=tokyonight&langs_count=7&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" />
 </div>
 
 #
