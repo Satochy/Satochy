@@ -22,7 +22,7 @@
 
 ## 👩🏻‍💻 Sobre mim:
 
-<img src="https://github.com/Satochy/Satochy/blob/main/Pc_coding.png?raw=true" width="340" align="right"/>
+<img src="https://github.com/Satochy/Satochy/blob/main/Pc_coding.png?raw=true" width="325" align="right"/>
 
 <i>Vindo do Design Gráfico, estou em transição para ser um Dev, busco unir o olhar analítico com a lógica para criar interfaces que vão além do visual, sendo tecnicamente eficientes e intuitivas.</i><br>
 
